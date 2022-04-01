@@ -1,6 +1,6 @@
 # E-Commerce Web Shop
 
-### [View it](https://ecommerce-js-web-shop.netlify.app/)
+### [Visit](https://ecommerce-js-web-shop.netlify.app/)
 
 ![E-Commerce Web Shop](https://user-images.githubusercontent.com/93548530/161136326-7aebc640-9272-457d-9be2-b68d09128794.png)
 
